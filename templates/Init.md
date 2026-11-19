@@ -25,7 +25,11 @@ status: active
 create at: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 last update: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 ---
+
+<%*
+const des = await tp.system.prompt("What is it about? (if there is anything that title can't say)", "");
+-%>
 > [!note] What is it about?
-> What does it say?
+> <% des %>
 
 start writing here...
