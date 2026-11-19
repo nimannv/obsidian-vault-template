@@ -1,16 +1,8 @@
 ---
 tags:
 ---
-# <% tp.file.title.replace(/^@/, "") %>
-
 ## 📇 Contact
 
----
-## 📝 Notes
+| Email | [john@example.com](mailto:john@example.com) |
+| Email | [john@example.com](mailto:john@example.com) |
 
-
-<%*
-if (tp.file.title.startsWith("@")) {
-    await tp.file.move("people/" + tp.file.title);
-}
-%>

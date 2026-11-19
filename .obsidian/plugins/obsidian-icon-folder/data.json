@@ -35,7 +35,6 @@
     "useInternalPlugins": false
   },
   "my-notes": "LiNotebookPen",
-  "people": "LiUsers",
   "resources": "LiSquareLibrary",
   "templates": "LiBookTemplate",
   "resources/AI": "LiBrain",
