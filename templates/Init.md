@@ -22,8 +22,11 @@ const tagsYaml = tags.length ? "\n" + tags.map(t => `  - ${t}`).join("\n") : "";
 tags:<% tagsYaml %>
 maturity: baby
 status: active
-create at: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
-last update: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+created: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+updated_count: 0
+updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+viewed: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+
 ---
 
 <%*
