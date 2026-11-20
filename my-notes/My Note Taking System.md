@@ -3,8 +3,10 @@ tags:
   - note_taking
 maturity: young
 status: active
-create at: 2026-11-19T02:55:29+01:00
-last update: 2026-11-19T03:39:36+01:00
+created: 2026-11-19T02:55:29+01:00
+updated_count: 2
+updated: 2026-11-20T00:09:50
+viewed: 2026-11-20T00:10:13
 ---
 
 > [!note] What is it about?
@@ -14,12 +16,19 @@ I've been inspired by [[Note Taking Frameworks]] that I've tried to use. (in som
 
 So basically, what I'm trying to do is simplify and combine them together to make my own desired system.
 
+> Maybe over time my system turns into one of those systems. (it doesn't have to be a unique custom system) the only thing that is matter is I'm using a system that works for me doesn't matter what the name is!
+
 ## My Definitions
 
 ### Notes
 Notes are the main blocks that build up the whole system.
-They represent my mind blocks and link them to each other.
-Everything in my mind is a note! Anything! An idea, a person, a company, a movie, or anything else in my mind. There is no separate directory or folder to organize them; they are all in one directory because they are all equally notes!
+They represent my mind blocks (at specific time) and their connections with other entities.
+Everything in my mind is a note! Anything! An idea, a person,,a company, a movie, even a category of notes is a note itself! 
+Anything in my mind should be considered a note. There is no separate directory or folder to organize them; they are all in one directory because they are all equally notes!
+
+[[Note Rules]]
+
+[[Note Credit]]
 
 ### Resources
 Basically, they are anything out of my mind! They are separated because they are not in my mind as long as I create a note and link to them! I only have them to make them able to reference.

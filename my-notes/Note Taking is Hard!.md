@@ -3,8 +3,10 @@ tags:
   - note_taking
 maturity: young
 status: active
-create at: 2026-11-19T02:08:45+01:00
-last update: 2026-11-19T03:38:35+01:00
+created: 2026-11-19T02:08:45+01:00
+updated_count: 1
+updated: 2026-11-19T22:59:58
+viewed: 2026-11-19T22:59:30
 ---
 > [!note] What is it about?
 > My expectations from a note taking system
@@ -12,11 +14,12 @@ last update: 2026-11-19T03:38:35+01:00
 Note taking should be easy, just like writing this note!
 Seems there are so many well established [[Note Taking Frameworks]] out there.
 I've tried some of them, and honestly most of them are too complicated for me! 
-In other words, I've always had to deal with complexity either in my notes or in the method I'm supposed to use to prevent the first one!
+
+In other words, **I've always had to deal with complexity either in my notes or in the method I'm supposed to use to prevent the first one!**
 
 > Maybe I used them in a wrong way! Or I haven't understood them properly. However, it's another sign that they are not simple enough for me!
 
-However, I don't want to deal with any of them!!
+Anyway, I don't want to deal with any of them!
 
 I'm a lazy (not so smart) guy who wants to have a simple and easy note taking system to enjoy the [[Note Taking Benefits]].
 

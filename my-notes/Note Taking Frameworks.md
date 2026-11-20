@@ -3,8 +3,10 @@ tags:
   - note_taking
 maturity: baby
 status: active
-create at: 2026-11-19T02:26:36+01:00
-last update: 2026-11-19T03:37:00+01:00
+created: 2026-11-19T02:26:36+01:00
+updated_count: 0
+updated: 2026-11-19T03:37:00+01:00
+viewed: 2026-11-19T22:59:20
 ---
 > [!note] What is it about?
 > Note taking methods and frameworks. I just put all names and threads here
