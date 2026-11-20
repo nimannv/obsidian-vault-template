@@ -1,7 +1,7 @@
 {
   "collapse-filter": true,
-  "search": "",
-  "showTags": false,
+  "search": "path:my-notes",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,11 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.20809835898999127,
+  "scale": 0.7805213047114652,
   "close": true
 }

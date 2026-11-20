@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiRoad",
       "LiPaperclip",
       "LiBrain",
       "🤖",
-      "LiBookTemplate",
-      "LiTemplaterIcon"
+      "LiBookTemplate"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,6 @@
   "resources": "LiSquareLibrary",
   "templates": "LiBookTemplate",
   "resources/AI": "LiBrain",
-  "resources/attachments": "LiPaperclip"
+  "resources/attachments": "LiPaperclip",
+  "Roadmaps": "LiRoad"
 }
