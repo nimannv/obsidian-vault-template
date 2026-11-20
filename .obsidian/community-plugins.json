@@ -1,9 +1,8 @@
 [
   "templater-obsidian",
   "editing-toolbar",
-  "harper",
   "metadata-menu",
   "dataview",
-  "frontmatter-modified-date",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "frontmatter-date-manager"
 ]
