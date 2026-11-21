@@ -1,2 +1,5 @@
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Plugin cache (machine-specific, contains note access timestamps)
+.obsidian/plugins/frontmatter-date-manager/hash-cache.json
