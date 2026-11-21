@@ -16,3 +16,5 @@ Note credit probably should be based on these metrics:
 - Last update
 - Last time I checked it
 - [[Note Maturity]]
+
+> For now I'm going to use this [[resources/AI/Note Credit Formula]]
