@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.folder == "my-notes"
+    - file.tags.contains("starting_point")
+views:
+  - type: table
+    name: View
+    order:
+      - file.name
+      - status
+      - maturity
+      - tags
