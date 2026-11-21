@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "path:my-notes",
   "showTags": true,
   "showAttachments": false,

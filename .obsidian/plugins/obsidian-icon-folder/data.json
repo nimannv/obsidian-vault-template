@@ -38,6 +38,5 @@
   "resources": "LiSquareLibrary",
   "templates": "LiBookTemplate",
   "resources/AI": "LiBrain",
-  "resources/attachments": "LiPaperclip",
-  "Roadmaps": "LiRoad"
+  "resources/attachments": "LiPaperclip"
 }
