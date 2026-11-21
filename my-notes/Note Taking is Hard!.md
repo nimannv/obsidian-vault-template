@@ -1,6 +1,7 @@
 ---
 tags:
   - note_taking
+  - starting_point
 maturity: young
 status: active
 created: 2026-11-19T02:08:45+01:00
