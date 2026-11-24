@@ -18,6 +18,9 @@ if (sources.length === 1) {
 
 const tagsYaml = tags.length ? "\n" + tags.map(t => `  - ${t}`).join("\n") : "";
 -%>
+<%*
+const des = await tp.system.prompt("What is it about? (if there is anything that title can't say)", "");
+-%>
 ---
 tags:<% tagsYaml %>
 maturity: baby
@@ -26,13 +29,8 @@ created: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 updated_count: 0
 updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 viewed: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
+description: <% des %>
 
 ---
 
-<%*
-const des = await tp.system.prompt("What is it about? (if there is anything that title can't say)", "");
--%>
-> [!note] What is it about?
-> <% des %>
 
-start writing here...
