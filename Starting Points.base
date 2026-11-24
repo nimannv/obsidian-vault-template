@@ -3,7 +3,7 @@ filters:
     - file.folder == "my-notes"
     - file.tags.contains("starting_point")
 views:
-  - type: table
+  - type: cards
     name: View
     order:
       - file.name

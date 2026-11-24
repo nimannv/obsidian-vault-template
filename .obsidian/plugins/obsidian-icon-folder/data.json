@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiEye",
+      "LiStar",
       "LiRoad",
       "LiPaperclip",
-      "LiBrain",
-      "🤖",
-      "LiBookTemplate"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "resources": "LiSquareLibrary",
   "templates": "LiBookTemplate",
   "resources/AI": "LiBrain",
-  "resources/attachments": "LiPaperclip"
+  "resources/attachments": "LiPaperclip",
+  "Starting Points.base": "LiStar",
+  "Note Credits.base": "LiEye"
 }
