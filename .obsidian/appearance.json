@@ -1,5 +1,8 @@
 {
   "showRibbon": true,
   "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "custom"
+  ]
 }
