@@ -9,16 +9,16 @@ updated_count: 1
 updated: 2026-11-19T22:59:58
 viewed: 2026-11-19T22:59:30
 ---
-> [!note] What is it about?
+> [!only-in-original] What is it about?
 > My expectations from a note taking system
 
 Note taking should be easy, just like writing this note!
 Seems there are so many well established [[Note Taking Frameworks]] out there.
-I've tried some of them, and honestly most of them are too complicated for me! 
+I've tried some of them, and most of them are too complicated for me! 
 
-In other words, **I've always had to deal with complexity either in my notes or in the method I'm supposed to use to prevent the first one!**
+I've always had to deal with complexity **either in my notes or in the method I'm supposed to use to prevent the first one!**
 
-> Maybe I used them in a wrong way! Or I haven't understood them properly. However, it's another sign that they are not simple enough for me!
+> Maybe I used them in the wrong way! Or I haven't understood them properly. However, it's another sign that they are not simple enough for me!
 
 Anyway, I don't want to deal with any of them!
 

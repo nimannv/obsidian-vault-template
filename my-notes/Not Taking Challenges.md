@@ -8,9 +8,9 @@ updated_count: 23
 updated: 2026-11-20T00:25:51
 viewed: 2026-11-20T00:12:37
 ---
-
-> [!note] What is it about?
+> [!only-in-original] What is it about?
 > All the challenges and difficulties I faced when I tried to take notes!
+
 
 To me, there are 3 main challenges in taking notes:
 

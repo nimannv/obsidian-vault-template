@@ -4,7 +4,7 @@ tags:
 source: AI
 ---
 
-> [!note] What is it about?
+> [!only-in-original] What is it about?
 > How the **Credit** column in `Starting Points.base` is calculated.
 
 ## Formula

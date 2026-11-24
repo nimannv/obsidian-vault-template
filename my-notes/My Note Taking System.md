@@ -1,6 +1,7 @@
 ---
 tags:
   - note_taking
+  - starting_point
 maturity: young
 status: active
 created: 2026-11-19T02:55:29+01:00
@@ -8,8 +9,7 @@ updated_count: 2
 updated: 2026-11-20T00:09:50
 viewed: 2026-11-20T00:10:13
 ---
-
-> [!note] What is it about?
+> [!only-in-original] What is it about?
 > How my desire note taking system works
 
 I've been inspired by [[Note Taking Frameworks]] that I've tried to use. (in some cases even by their name!)
@@ -27,8 +27,6 @@ Everything in my mind is a note! Anything! An idea, a person,,a company, a movie
 Anything in my mind should be considered a note. There is no separate directory or folder to organize them; they are all in one directory because they are all equally notes!
 
 [[Note Rules]]
-
-[[Note Credit]]
 
 ### Resources
 Basically, they are anything out of my mind! They are separated because they are not in my mind as long as I create a note and link to them! I only have them to make them able to reference.
