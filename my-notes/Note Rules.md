@@ -7,9 +7,8 @@ created: 2026-11-19T20:03:32+01:00
 updated_count: 6
 updated: 2026-11-20T00:07:28
 viewed: 2026-11-20T00:10:33
+description: Rules I'm following for taking notes.
 ---
-> [!only-in-original] What is it about?
-> Rules I'm following for taking notes.
 
 > [!caution]
 > Mission number one is **KEEP IT SIMPLE**; each rule should simplify the system not make it more complex

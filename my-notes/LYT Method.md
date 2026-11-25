@@ -7,13 +7,8 @@ created: 2026-11-24T16:57:55+00:00
 updated_count: 0
 updated: 2026-11-24T16:57:55+00:00
 viewed: 2026-11-24T16:57:55+00:00
+description: LYT (Linking Your Thinking) & Maps of Content (MOCs)
 ---
-
-
-> [!only-in-original] What is it about?
-> LYT (Linking Your Thinking) & Maps of Content (MOCs)
-
-
 
 https://www.linkingyourthinking.com/resources
 

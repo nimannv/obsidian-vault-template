@@ -8,9 +8,8 @@ created: 2026-11-19T02:08:45+01:00
 updated_count: 1
 updated: 2026-11-19T22:59:58
 viewed: 2026-11-19T22:59:30
+description: My expectations from a note taking system
 ---
-> [!only-in-original] What is it about?
-> My expectations from a note taking system
 
 Note taking should be easy, just like writing this note!
 Seems there are so many well established [[Note Taking Frameworks]] out there.

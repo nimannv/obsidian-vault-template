@@ -8,9 +8,8 @@ created: 2026-11-19T02:55:29+01:00
 updated_count: 2
 updated: 2026-11-20T00:09:50
 viewed: 2026-11-20T00:10:13
+description: How my desire note taking system works
 ---
-> [!only-in-original] What is it about?
-> How my desire note taking system works
 
 I've been inspired by [[Note Taking Frameworks]] that I've tried to use. (in some cases even by their name!)
 

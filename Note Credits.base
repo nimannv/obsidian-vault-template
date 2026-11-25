@@ -20,9 +20,11 @@ views:
       - file.name
       - maturity
       - formula.credit
+      - description
       - tags
     sort:
       - property: formula.credit
         direction: DESC
     columnSize:
       file.name: 176
+      note.description: 501
