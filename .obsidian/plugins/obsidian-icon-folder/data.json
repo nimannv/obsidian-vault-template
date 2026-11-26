@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiKanbanSquare",
+      "LiKanban",
       "LiEye",
       "LiStar",
-      "LiRoad",
-      "LiPaperclip",
-      "LiBrain"
+      "LiRoad"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "resources/AI": "LiBrain",
   "resources/attachments": "LiPaperclip",
   "Starting Points.base": "LiStar",
-  "Note Credits.base": "LiEye"
+  "Note Credits.base": "LiEye",
+  "TODO.base": "LiKanbanSquare"
 }
