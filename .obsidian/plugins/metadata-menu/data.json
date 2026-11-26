@@ -29,12 +29,17 @@
         "sourceType": "ValuesList",
         "valuesList": {
           "1": "active",
-          "2": "inactive"
+          "2": "to actviate",
+          "3": "suspend",
+          "4": "inactive"
         }
       },
       "name": "status",
       "id": "LxPkr3",
-      "path": ""
+      "path": "",
+      "style": {
+        "code": false
+      }
     }
   ],
   "fileClassQueries": [],
@@ -43,7 +48,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.2",
+  "settingsVersion": "5.9",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,
