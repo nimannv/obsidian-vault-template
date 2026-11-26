@@ -1,0 +1,8 @@
+.metadata-property:is(
+    [data-property-key="created"],
+    [data-property-key="updated_count"],
+    [data-property-key="updated"],
+    [data-property-key="viewed"]
+) {
+    display: none !important;
+}

@@ -3,6 +3,7 @@
   "cssTheme": "",
   "accentColor": "",
   "enabledCssSnippets": [
-    "custom"
+    "custom",
+    "hidden_properties"
   ]
 }
