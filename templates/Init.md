@@ -23,10 +23,10 @@ const des = await tp.system.prompt("What is it about? (if there is anything that
 -%>
 ---
 tags:<% tagsYaml %>
-maturity: Baby
-status: Active
+maturity: baby
+status: active
 created: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
-pdated_count: 0
+updated_count: 0
 updated: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 viewed: <% tp.date.now("YYYY-MM-DDTHH:mm:ssZ") %>
 description: <% des %>

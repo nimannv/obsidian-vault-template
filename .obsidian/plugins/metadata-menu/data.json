@@ -29,7 +29,7 @@
         "sourceType": "ValuesList",
         "valuesList": {
           "1": "active",
-          "2": "to actviate",
+          "2": "to activate",
           "3": "suspend",
           "4": "inactive"
         }
@@ -48,7 +48,7 @@
   "classFilesPath": null,
   "isAutosuggestEnabled": true,
   "fileClassAlias": "fileClass",
-  "settingsVersion": "5.9",
+  "settingsVersion": "5.10",
   "firstDayOfWeek": 1,
   "enableLinks": true,
   "enableTabHeader": true,

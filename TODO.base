@@ -9,7 +9,7 @@ formulas:
   H: if(maturity == "baby", 7, if(maturity == "young", 30, if(maturity == "adult", 90, 365)))
   y: 0.693 * formula.d / formula.H
   decay: 1 / (1 + formula.y * (1 + formula.y * (0.5 + formula.y * (1/6 + formula.y / 24))))
-  credit: 100 * formula.M * formula.decay.round()
+  credit: (100 * formula.M * formula.decay).round()
 properties:
   formula.credit:
     displayName: Credit
@@ -20,7 +20,7 @@ views:
       property: status
       direction: ASC
     groupOrder:
-      - to actviate
+      - to activate
       - active
       - inactive
     order:
