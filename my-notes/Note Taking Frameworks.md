@@ -1,7 +1,7 @@
 ---
 tags:
   - note_taking
-maturity: baby
+maturity: young
 status: active
 created: 2026-11-19T02:26:36+01:00
 updated_count: 0
