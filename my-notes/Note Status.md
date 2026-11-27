@@ -2,7 +2,7 @@
 tags:
   - note_taking
 maturity: young
-status: to activate
+status: active
 created: 2026-11-25T20:28:39+00:00
 updated_count: 0
 updated: 2026-11-25T20:28:39+00:00

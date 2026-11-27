@@ -9,6 +9,8 @@ updated: 2026-11-25T00:08:03+00:00
 viewed: 2026-11-25T00:08:03+00:00
 description: PARA method for note taking
 ---
-
-
 https://fortelabs.com/blog/para/
+
+---
+# To Do:
+- [ ] Write down your understanding of this method
