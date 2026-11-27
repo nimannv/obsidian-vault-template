@@ -22,6 +22,7 @@ views:
     groupOrder:
       - to activate
       - active
+      - suspend
       - inactive
     order:
       - file.name
