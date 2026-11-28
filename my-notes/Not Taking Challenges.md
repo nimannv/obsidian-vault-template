@@ -12,9 +12,9 @@ description: All the challenges and difficulties I faced when I tried to take no
 
 To me, there are 3 main challenges in taking notes:
 
-- **How to add a new note**: It should be the easiest one! I should be able to add notes almost effortlessly. 
+- **How to add a new note**: It should be the easiest one! I should be able to add notes almost effortlessly. I want to be able to take notes anytime without thinking about anything other than my note itself.
 
-- **How to find and trace notes**: After adding notes, I need to be able to find them when they are needed. Otherwise, my notes are pointless in the long term!
+- **How to find and retrieve notes**: After adding notes, I need to be able to find them when they are needed. Otherwise, my notes are pointless in the long term!
 
-- **How to maintain notes**: This is something that I miss most of the time. Notes get old and unrelated or expired! After that, they are junk that makes my environment cluttered. one solution for this is calculating the [[Note Credit]]
+- **How to maintain notes**: Notes get old and expire or become unrelated! After that, they are junks that make my environment cluttered. (My solution for this is calculating the [[Note Credit]])
 
