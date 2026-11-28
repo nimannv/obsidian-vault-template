@@ -5,18 +5,26 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#starting_point  ",
+      "color": {
+        "a": 1,
+        "rgb": 16117007
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.500223413762288,
+  "repelStrength": 9.0035746201966,
   "linkStrength": 1,
-  "linkDistance": 40,
-  "scale": 1.0278685826372123,
+  "linkDistance": 170,
+  "scale": 0.7015575277334203,
   "close": true
 }
